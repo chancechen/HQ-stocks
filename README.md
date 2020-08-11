@@ -20,7 +20,7 @@
 ### 文件说明
 >* ./src/assets/conf.json 基础配置文件
 >* ./src/assets/stock.json 默认股票数据文件
->* **bar.html 静态文件，可以不依赖程序直接使用**
+>* bar.html 静态文件，可以不依赖程序直接使用**
 
 ### 配置说明
 >* ./src/assets/conf.json 基础配置文件
