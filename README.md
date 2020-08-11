@@ -9,7 +9,7 @@
 
 ### 示例图
 
-![ROE](.\src\assets\ROE.png)
+![ROE](http://106.53.230.218/wp-content/uploads/2020/08/2015-2019-年，ROE30.00-55.00-区间统计图.png)
 
 
 ### 项目依赖
