@@ -1,0 +1,10 @@
+{
+    "forceLoad":false,
+    "host":"http://192.168.200.51:8080",
+    "minRoe":15.0,
+    "maxRoe":1000.0,
+    "showMinRoe":30.0,
+    "showMaxRoe":55.0,
+    "apiAccount":"18200000000",
+    "apiPwd":"ECD928a6bf8eec8ba1"
+}
